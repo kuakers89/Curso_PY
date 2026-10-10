@@ -13,3 +13,4 @@ print(v1>v2,v1<v2,v1==v2,v1!=v2,v1>=v2,v1<=v2)
  #Operadordes Logicos
 print(v1<v2 and v1<v2)
 print(not(v1<v2 and v1<v2))
+print("result", v1<v2 or v1<v2)
